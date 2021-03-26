@@ -4,11 +4,14 @@
   "ignorePaths": [
   ],
   "ignoreRegExpList": [
-    ":.*:"
+    ":.*:",
+    "arn:.*"
   ],
   "words": [
     "boto",
-    "botocore"
+    "botocore",
+    "eicar",
+    "Spdx"
   ],
   "ignoreWords": [
     "fileb"
