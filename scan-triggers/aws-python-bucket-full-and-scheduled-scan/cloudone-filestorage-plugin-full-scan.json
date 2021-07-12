@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "AWS::ServerlessRepo::Application": {
-       "Name": "cloudone-filestorage-plugin-trigger-full-scheduled-scan)",
+       "Name": "cloudone-filestorage-plugin-trigger-full-scheduled-scan",
        "Description": "It deploys all the required resources to trigger a full scan, scheduled or not, on a S3 bucket leveraging an existing Trend Micro File Storage Security deployment.",
        "Author": "Trend Micro Cloud One File Storage Security",
        "SpdxLicenseId": "Apache-2.0",
